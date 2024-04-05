@@ -8,6 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var extaVendiArray = ["item_backside","item_backside","item_backside","item_backside","item_backside","item_backside","item_backside","item_backside","item_backside"]
+    var extaPantryArray = ["borownline","borownline","borownline","borownline","borownline","borownline","borownline","borownline","borownline"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
